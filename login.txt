@@ -1,1 +1,1 @@
-this is my registeration page
+this is my login page
